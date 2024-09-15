@@ -1,36 +1,8 @@
 ---
-tags:
-- DIY
-- 机器人
-- esp8266  
-- wifi服务器 
+
 title: DIY四足机器人
 date: 2024-09-14
-updated: 
-categories:
-- 记录 
-keywords:
-- 机器人    
-description: 
-top_img: 
-comments: 
-cover: root.png
-toc: 
-toc_number: 
-toc_style_simple: 
-copyright: 
-copyright_author: 
-copyright_author_href: 
-copyright_url: 
-copyright_info: 
-mathjax: 
-katex: 
-aplayer: 
-highlight_shrink: 
-aside: 
-swiper_index: 1
-top_group_index: 1
-background: "#fff"
+
 ---
 
 # 四足机器人软硬件架构
