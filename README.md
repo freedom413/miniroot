@@ -18,8 +18,8 @@ date: 2024-09-14
 
 
 <div align=center >
-<img style="border: 2px solid black;border-radius: 5px;" src="1.png" width = 40%>
-<img style="border: 2px solid black;border-radius: 5px;" src="2.png" width = 40%>
+<img style="border: 2px solid black;border-radius: 5px;" src="img/1.png" width = 40%>
+<img style="border: 2px solid black;border-radius: 5px;" src="img/2.png" width = 40%>
 </div>
 
 **需要购买一套电池**
