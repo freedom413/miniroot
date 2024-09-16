@@ -1,15 +1,18 @@
 ---
-
+tags:
+- DIY
+- 机器人
+- esp8266  
+- wifi服务器 
 title: DIY四足机器人
 date: 2024-09-14
-
 ---
 
 **更多项目可移步我的博客浏览哟**🤞 <https://freedom413.github.io>
 
 # 四足机器人软硬件架构
 - 🤦‍♀️飞书画的感觉不咋地
-![架构](img/架构图.png)
+![](https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409064864_架构图.png)
 # 四足机器人硬件（所有连接仅供参考，任何问题与本人无关）
 ## 电池
 
@@ -20,8 +23,8 @@ date: 2024-09-14
 
 
 <div align=center >
-<img style="border: 2px solid black;border-radius: 5px;" src="img/1.png" width = 40%>
-<img style="border: 2px solid black;border-radius: 5px;" src="img/2.png" width = 40%>
+<img style="border: 2px solid black;border-radius: 5px;" src="https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409114450_miniroot (1).png" width = 40%>
+<img style="border: 2px solid black;border-radius: 5px;" src="https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409156031_miniroot (2).png" width = 40%>
 </div>
 
 **需要购买一套电池**
@@ -33,8 +36,8 @@ date: 2024-09-14
 点击链接直接打开 或者 淘宝搜索直接打开
 
 <div align=center>
-<img style="border: 2px solid black;border-radius: 5px;" src="img/3.png" width = 40%>
-<img style="border: 2px solid black;border-radius: 5px;" src="img/4.png" width = 40%>
+<img style="border: 2px solid black;border-radius: 5px;" src="https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409204459_miniroot (3).png" width = 40%>
+<img style="border: 2px solid black;border-radius: 5px;" src="https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409232819_miniroot (4).png" width = 40%>
 </div>
 
 **需要购买1块降压模块**
@@ -44,8 +47,8 @@ date: 2024-09-14
 【淘宝】限时官方立减0.73元 <http://e.tb.cn/h.gKQFJ88xUs7VLfy?tk=jwn13hGPIay> HU0854 「ESP8266串口WIFI模块 CP2102/CH340 NodeMCU Lua V3物联网开发板」
 点击链接直接打开 或者 淘宝搜索直接打开
 <div align=center>
-<img style="border: 2px solid black;border-radius: 5px;" src="img/5.png" width = 40%>
-<img style="border: 2px solid black;border-radius: 5px;" src="img/6.png" width = 40%>
+<img style="border: 2px solid black;border-radius: 5px;" src="https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409264724_miniroot (5).png" width = 40%>
+<img style="border: 2px solid black;border-radius: 5px;" src="https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409305228_miniroot (6).png" width = 40%>
 </div>
 
 **需要购买1块开发板，esp8266 的硬件资源介绍及使用教程请自行学习**
@@ -57,8 +60,8 @@ date: 2024-09-14
 【淘宝】限时满88减2 <http://e.tb.cn/h.gq7QGmTuJ59kCKV?tk=Wd5P3hGJuMC> HU9196 「伺服舵机 SG90 MG90S 9g舵机 450直升飞机小车伺服器 180度 360度」
 点击链接直接打开 或者 淘宝搜索直接打开
 <div align=center>
-<img style="border: 2px solid black;border-radius: 5px;" src="img/7.png" width = 40%>
-<img style="border: 2px solid black;border-radius: 5px;" src="img/8.png" width = 40%>
+<img style="border: 2px solid black;border-radius: 5px;" src="https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409349079_miniroot (7).png" width = 40%>
+<img style="border: 2px solid black;border-radius: 5px;" src="https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409362807_miniroot (8).png" width = 40%>
 </div>
 
 **需要购买8个舵机**
@@ -69,8 +72,8 @@ date: 2024-09-14
 【淘宝】限时满88减2 http://e.tb.cn/h.gK4KNkc34hgFGe9?tk=9eZ13hGGVYG MF7997 「0.91/0.96/1.3寸白/黄/蓝色 双色 IIC通信小OLED显示屏模块液晶屏」
 点击链接直接打开 或者 淘宝搜索直接打开
 <div align=center>
-<img style="border: 2px solid black;border-radius: 5px;" src="img/9.png" width = 40%>
-<img style="border: 2px solid black;border-radius: 5px;" src="img/10.png" width = 40%>
+<img style="border: 2px solid black;border-radius: 5px;" src="https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409381770_miniroot (9).png" width = 40%>
+<img style="border: 2px solid black;border-radius: 5px;" src="https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409396626_miniroot (10).png" width = 40%>
 </div>
 
 **需要购买1块屏**
@@ -80,15 +83,15 @@ date: 2024-09-14
 
 - 💕3d建模当年也是我的最爱额。
 Solidworks 建模装配体图 组装后和效果和模型差不多，不过组装后我只使用了一块pcb。
-![](img/model.png) 
+![](https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409413805_model.png)
 3D打印使用的是导出stl格式文件，只需要打印四个关节和四个手部，底盘可以直接使用pcb，然后螺丝可以使用sg90舵机自带的。可以购买m2x10的螺柱螺母或者热熔胶来固定pcb和舵机，推荐使用热熔胶，因为热熔胶还可以用来加强oled以及舵机焊接口的连线
 
 ## PCB
 - 🦄这个简单，花一个下午画的，能不能用不重要，干就完了
 嘉立创eda简单设计了个底板主要是提供结构支撑，和连接降压，主控，电池，开关这几个模块。
-![](img/pcb.png) 
+![](https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409426590_pcb.png)
 原理图就是吧购买的模块连接起来
-![](img/sheet.png) 
+![](https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409447980_sheet.png)
 嘉立创工程文件和制造输出文件以及原理图，原理图全是模块设计，焊接简单。电池采用自带usb充电线充电。
 # 四足机器人软件
 - 🧬东拼一点西凑一点，也是不负众望，成功堆出屎山代码，毕竟大家都说代码和人有一个能跑就行！
@@ -102,10 +105,10 @@ Solidworks 建模装配体图 组装后和效果和模型差不多，不过组�
 
 - Vscode + PlatformIO 基于arduino
   vscode安装自行学习，在插件市场搜索PlatformIO 安装插件。可能需要开魔法才可以在建立工程时快速下载框架支持包。否则有可能需要等待数小时。
-  ![](img/ploat.png) 
-  ![](img/p2.png)
+![](https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409472023_ploat.png)
+![](https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409493810_p2.png)
   打开提供的源代码。arduino 的使用方法请自行学习，资源很多。
-  ![](img/p3.png)
+![](https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409540200_p3.png)
   ```yaml
     [env:esp12e]
     platform = espressif8266
@@ -239,13 +242,16 @@ static bool handleFileRead(String resource, AsyncWebServerRequest *request)
 通过getContentType函数获取文件发送类型，就是通过请求文件后缀来得出返回数据的类型。LittleFS.exists(resource) 如果文件系统中存在这个文件，就将文件读出来发送给客户端。contentType就是解析出来的返回数据类型。
 
 ## 静态网页代码
-在data文件夹下存放的就是需要编译后存入flash通过LittleFS来管理的文件，htlm，css，javascript这些文件。
+在data文件夹下存放的就是需要编译后存入flash通过LittleFS来管理的文件，htlm，css，javascript这些文件。  
 
-![](img/11.png)
+![](https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409577391_miniroot%20(11).png)  
+
 文件需要编译后下载，步骤如下。
-![](img/12.png)
 
-一个简单的界面，一个图片和12个按钮组成，关于前端的知识可以在[菜鸟教程](https://www.runoob.com/html/html-tutorial.html)去学习。
+![](https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409581672_miniroot%20(12).png)
+
+
+一个简单的界面，一个图片和12个按钮组成，关于前端的知识可以在[**菜鸟教程**](https://www.runoob.com/html/html-tutorial.html)去学习。
 ```html
 <!DOCTYPE html>
 <html lang="zh-CN">
@@ -279,7 +285,7 @@ static bool handleFileRead(String resource, AsyncWebServerRequest *request)
 </body>
 </html>
 ```
-发送脚本 ：在按钮按下时调用，将按钮的传入值发送给服务器，值绑定到了num，使用Get方法发送。同样[菜鸟教程](https://www.runoob.com/ajax/ajax-tutorial.html)也可以学习
+发送脚本 ：在按钮按下时调用，将按钮的传入值发送给服务器，值绑定到了num，使用Get方法发送。同样[**菜鸟教程**](https://www.runoob.com/ajax/ajax-tutorial.html)也可以学习
 
 ```Js
  function sendData(num) {
@@ -294,7 +300,7 @@ static bool handleFileRead(String resource, AsyncWebServerRequest *request)
 }
 ```
 最终在网页上展示的控制界面如下图
-![](img/web.png)
+![](https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409621878_web.png)
 ## 可调速舵机代码
 SG90舵机时通过周期20ms占空比0.5~2.5ms的pwm波来控制的，0度对应0.5ms ,180度对应2.5ms。
 调速的主要思想就是，将一段距离需要在设定的时间内完成的位移，拆分成若干个周期来运行，计算出，总共需要多少个周期，然后将角度均分，每个周期写入一个增量的占空比，逐渐累加占空比即可达到调速的目的。
@@ -497,25 +503,25 @@ void loop()
 
 - **我给它来了个360无死角展示首先来展示它的正面**
 
-![](img/正面.jpg)
+![](https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409657190_正面.jpg)
 
 - **然后是侧面**
 
-![](img/侧面.jpg)
+![](https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409666079_侧面.jpg)
 
 - **然后看看屁股吧**
 
-![](img/屁股.jpg)
+![](https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409670446_屁股.jpg)
 
 - **那小肚子也给你们看吧**  
 
 
-![](img/肚皮.jpg)
+![](https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409687561_肚皮.jpg)
 
 
 - **直接解刨给你看**
 
-![](img/背面.jpg)
+![](https://c0cebdd1.cloudflare-imgbed-24v.pages.dev/file/1726409694364_背面.jpg)
 
 
 - **展示完毕上vlog**
